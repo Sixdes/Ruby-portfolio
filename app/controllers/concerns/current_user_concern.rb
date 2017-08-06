@@ -12,5 +12,4 @@ module CurrentUserConcern
   					email: 'guest@example.com'
   					)
     end
-
 end
